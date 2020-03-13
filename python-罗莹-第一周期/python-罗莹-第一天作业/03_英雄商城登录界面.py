@@ -1,0 +1,10 @@
+print("            英雄商城登录界面\n")
+print("~ * "*15)
+print(" ")
+print("			1. 用户登录\n")
+print("			2. 新用户注册\n")
+print("			3. 退出系统\n")
+print("~ * "*15)
+print("\n")
+vlaue = input("(温馨提示)请输入您的选项:")
+
